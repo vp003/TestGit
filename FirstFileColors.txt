@@ -6,6 +6,7 @@ Red
 Green 
 
 Orange
+Yellow
 Gray
 
 Done with changes
