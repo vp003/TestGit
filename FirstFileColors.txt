@@ -1,0 +1,7 @@
+This file is created to test git commands
+
+List of colors
+
+Red
+Green 
+Blue
