@@ -4,8 +4,9 @@ List of colors
 
 Red
 Green 
-Blue
+
 Orange
 Yellow
+Gray
 
-Changes are complete in new branch.
+Done with changes
